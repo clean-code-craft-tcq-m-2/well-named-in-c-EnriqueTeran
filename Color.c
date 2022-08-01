@@ -64,7 +64,7 @@ void PrintManual(void)
             /*For that iterate through the Minor Colors and prints the values */
             for(j = 0 ; j < numberOfMinorColors ; j++)
             {
-                printf("Pair number: %d  Major Color: %s Minor Color: %s", x, MajorColorNames[i], MinorColorNames[j]);
+                printf("Pair number: %d  Major Color: %s Minor Color: %s\n", x, MajorColorNames[i], MinorColorNames[j]);
                 x++;
             }
         }
