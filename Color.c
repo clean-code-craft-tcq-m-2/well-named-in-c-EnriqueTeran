@@ -39,7 +39,7 @@ void testPairToNumber( enum MajorColor major, enum MinorColor minor,int expected
 }
 void PrintManual(void)
 {   
-        int i; j; x = 1;
+        int i, j, x = 1;
         for(i= 0 ; i < numberOfMajorColors ; i++ ) /*For that iterate through the Major Colors */
         {   for(j = 0 ; j < numberOfMinorColors ; j++)/*For that iterate through the Minor Colors and prints the values */
             {
