@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "Colors.h"
+#include "Color.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
