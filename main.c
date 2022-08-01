@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <assert.h>
-#include <Color.h>
-#include <stdio.h>
-#include <assert.h>
 
 /*Global Variables*/
 enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
